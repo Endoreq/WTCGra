@@ -8,7 +8,7 @@ using namespace std;
 
 
 
-
+Adolf Hitler lubi żydów
 
 
 int main()
