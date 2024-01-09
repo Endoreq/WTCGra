@@ -8,7 +8,6 @@ using namespace std;
 
 
 
-Adolf Hitler lubi żydów
 
 
 int main()
@@ -49,7 +48,6 @@ int main()
 		window2.clear();
 		window2.draw(sprite2);
 		window2.display();
-chuj
 	}
 	return 0;
 }
